@@ -3,10 +3,12 @@
 - pyautogui
 - ultralytics
 - keyboard (да это библиотека)
+
 Это программа делалась на windows и работает на windows
 Используемый сайт для данной программы
 https://orteil.dashnet.org/cookieclicker/
 данная программа предназначена для кликанья по печеньке и по апгрейдам
+
 [ang]
 Here are the libraries needed for this program:
 - pyautogui
